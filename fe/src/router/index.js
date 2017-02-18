@@ -36,5 +36,5 @@ const router = new Router({
     }
   ]
 })
-
+router.replace('/board')
 export default router
